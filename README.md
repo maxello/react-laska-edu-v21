@@ -1,5 +1,8 @@
-# DEMO
+## DEMO
 [Demo](https://react-laska-v21.vercel.app)
+
+## About this project
+This is a conceptual redesign of www.laska.bar. All content and images belong to the original website and are used here solely for showcasing design and developing skills in a non-commercial context.
 
 # React + TypeScript + Vite
 

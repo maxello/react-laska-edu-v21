@@ -83,7 +83,7 @@ const Hero = () => {
         <div className="block text-[1.8rem] md:text-[2rem] gsapHeroSubtitle text-white">v21</div>
       </div>
       <div className="mb-2 relative before:absolute max-w-[510px] before:-z-10 before:blur-2xl before:top-0 before:left-0 before:w-full before:h-full before:bg-background/40">
-        <p className="text-gray-300 font-medium md:text-lg leading-[1.5] relative gsapHeroCopy">This is an educational website redesign of the laska bar website, unrelated to the original brand. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio illo modi facere vitae nostrum odio.</p>
+        <p className="text-gray-300 font-medium md:text-lg leading-[1.5] relative gsapHeroCopy">This is a conceptual redesign of www.laska.bar. All content and images belong to the original website and are used here solely for showcasing design and developing skills in a non-commercial context.</p>
       </div>
       <div className="flex flex-col sm:flex-row gap-4 lg:gap-8">
         {heroListItems?.map((item, ind) => (

@@ -29,7 +29,7 @@ const SubscribeForm = () => {
   }
 
   return (
-    <form onSubmit={handleSubmit((d) => onSubmit(d))} className="flex flex-col w-full gap-2 mx-auto max-w-[400px]">
+    <form onSubmit={handleSubmit((d) => onSubmit(d))} className="flex flex-col w-full gap-2 mx-auto max-w-[400px] mb-6">
       <div className="flex gap-2 w-full justify-center">
         <input {...register('email')} type="email" placeholder="Email" className="text-sm sm:text-base w-full px-3 py-2 sm:px-5 sm:py-3 border border-primary outline-none disabled:cursor-not-allowed disabled:opacity-50 focus:outline-none" />
         <button className="border-primary bg-primary transition-colors px-3 py-3 sm:px-5 sm:py-3 text-primary-foreground cursor-pointer disabled:cursor-not-allowed text-sm sm:text-base" type="submit">
