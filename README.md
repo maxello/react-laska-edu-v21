@@ -1,5 +1,5 @@
 # DEMO
-[Demo and description](https://react-laska-v21.vercel.app)
+[Demo](https://react-laska-v21.vercel.app)
 
 # React + TypeScript + Vite
 
